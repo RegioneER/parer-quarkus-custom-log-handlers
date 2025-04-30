@@ -1,0 +1,10 @@
+target
+.settings
+.settings/
+idea
+.project
+.vscode
+.classpath
+.idea
+.env
+/versamento-fascicolo-ws20.iml
